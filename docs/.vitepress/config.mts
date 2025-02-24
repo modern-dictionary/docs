@@ -6,8 +6,7 @@ export default defineConfig({
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Getting Started', link: '/guide/introduction' },
-      { text: 'Technical', link: '/guide/architecture' },
+      { text: 'docs', link: '/guide/introduction' },
       { text: 'GitHub', link: 'https://github.com/modern-dictionary' }
     ],
 
@@ -36,11 +35,7 @@ export default defineConfig({
             { text: 'Authentication', link: '/guide/authentication' },
             { text: 'User Management', link: '/guide/users' },
             { text: 'Words & Categories', link: '/guide/words' },
-            { text: 'Team Features', link: '/guide/team' },
-              { text: 'Database & Models', link: '/guide/mysql' },
-              { text: 'Team Features', link: '/guide/team' },
-
-
+            { text: 'Team Features', link: '/guide/teams' },
           ]
       },
 
@@ -48,11 +43,8 @@ export default defineConfig({
           text: 'Backend (Node.js)',
           collapsed: false,
           items: [
-            { text: 'Architecture', link: '/guide/architecture' },
-            { text: 'Laravel Structure', link: '/guide/laravel' },
             { text: 'Node.js (WebSockets)', link: '/guide/nodejs' },
             { text: 'Database & Redis', link: '/guide/database' },
-            { text: 'Security & Auth', link: '/guide/security' }
           ]
       },
       {
