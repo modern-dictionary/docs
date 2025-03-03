@@ -4,10 +4,13 @@ export default defineConfig({
   title: "Modern Dictionary Docs",
   description: "New Way Of Learning Words With Dictionary",
   themeConfig: {
+      logo: '/logo.png',
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'docs', link: '/guide/introduction' },
-      { text: 'GitHub', link: 'https://github.com/modern-dictionary' }
+      { text: 'Docs', link: '/guide/introduction' },
+      { text: 'GitHub', link: 'https://github.com/modern-dictionary' },
+      { text: 'Website', link: 'https://modern-dictionary.com/' }
+
     ],
 
     sidebar: [
@@ -44,7 +47,7 @@ export default defineConfig({
           collapsed: false,
           items: [
             { text: 'Node.js (WebSockets)', link: '/guide/nodejs' },
-            { text: 'Database & Redis', link: '/guide/database' },
+            { text: 'Database & Redis', link: '/guide/redis' },
           ]
       },
       {
@@ -71,7 +74,6 @@ export default defineConfig({
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/modern-dictionary' },
-      { icon: 'twitter', link: 'https://twitter.com/your-profile' }
     ],
 
     search: {

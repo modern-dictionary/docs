@@ -20,7 +20,7 @@ We offer a large collection of words with detailed definitions, synonyms, antony
 New words and definitions are constantly added and updated to ensure accuracy.
 
 ### 3. API Access
-Developers can integrate our powerful API to fetch word data programmatically. See our [API documentation](/docs/api) for more details.
+Developers can integrate our powerful API to fetch word data programmatically. See our API documentation for more details.
 
 ### 4. Multi-Language Support
 We provide definitions and translations in multiple languages to enhance accessibility.
@@ -29,7 +29,7 @@ We provide definitions and translations in multiple languages to enhance accessi
 Enjoy a seamless reading experience with both **dark mode** and **light mode** options.
 
 ::: tip
-To get started quickly, check out our [Getting Started Guide](/docs/getting-started).
+To get started quickly, check out our Getting Started Guide.
 :::
 
 ## Who is this for?
@@ -42,11 +42,10 @@ Modern Dictionary is designed for:
 1. Visit [Modern Dictionary](https://modern-dictionary.com).
 2. Search for any word using the search bar.
 3. Explore definitions, synonyms, and pronunciations.
-4. Developers can check out our [API documentation](/docs/api) for integration.
+4. Developers can check out our API documentation for integration.
 
 ## Stay Updated
 Follow us for the latest updates and feature announcements:
-- Twitter: [@ModernDictionary](https://twitter.com/ModernDictionary)
 - GitHub: [modern-dictionary](https://github.com/modern-dictionary)
 
 Start exploring today and enhance your vocabulary with **Modern Dictionary**! 🚀

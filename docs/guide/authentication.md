@@ -9,7 +9,7 @@ To prevent automated bots from abusing authentication and registration forms, we
 ### Implementation Steps:
 1. Register your site on [Google reCAPTCHA](https://www.google.com/recaptcha) and obtain API keys.
 2. Configure reCAPTCHA keys in the Laravel `.env` file:
-   ```env
+   ```
    RECAPTCHA_SITE_KEY=your-site-key
    RECAPTCHA_SECRET_KEY=your-secret-key
    ```
@@ -60,7 +60,7 @@ Laravel provides a built-in mechanism to allow users to reset their passwords us
 
 ### Implementation Steps:
 1. Configure mail settings in `.env`:
-   ```env
+   ```
    MAIL_MAILER=smtp
    MAIL_HOST=smtp.mailtrap.io
    MAIL_PORT=2525
