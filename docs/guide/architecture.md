@@ -30,4 +30,4 @@ In Modern Dictionary, we use **Nginx** as a **reverse proxy** to route requests 
 ### Diagram
 Here is a diagram illustrating the system's architecture:
 
-![Architecture Diagram](https://example.com/architecture-diagram.png)
+![Architecture Diagram](../modern_dictionary_architecture.png)
